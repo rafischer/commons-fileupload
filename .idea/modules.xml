@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/commons-fileupload.iml" filepath="$PROJECT_DIR$/.idea/commons-fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-fileupload2-core/commons-fileupload2-core.iml" filepath="$PROJECT_DIR$/commons-fileupload2-core/commons-fileupload2-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-fileupload2-jakarta/commons-fileupload2-jakarta.iml" filepath="$PROJECT_DIR$/commons-fileupload2-jakarta/commons-fileupload2-jakarta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-fileupload2-javax/commons-fileupload2-javax.iml" filepath="$PROJECT_DIR$/commons-fileupload2-javax/commons-fileupload2-javax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-fileupload2-portlet/commons-fileupload2-portlet.iml" filepath="$PROJECT_DIR$/commons-fileupload2-portlet/commons-fileupload2-portlet.iml" />
+    </modules>
+  </component>
+</project>
